@@ -1,0 +1,51 @@
+{
+  "short_name": "meinegemeinde.digital",
+  "name": "Meine Gemeinde Digital",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "256x256 128x128 64x64 48x48 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo_48x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "logo_72x.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "logo_96x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "logo_144x.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "logo_192x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo_512x.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "logo_1024x.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "theme_color": "#36a4d9",
+  "background_color": "#ffffff"
+}
